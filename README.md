@@ -2,8 +2,9 @@
 
 A basic tutorial (PDF) libraries about web development.
 
-[@uiux_lab](https://twitter.com/uiux_lab)
-[Official website](https://uiux.cc)
+[via Twitter](https://twitter.com/uiux_lab)
+
+[via Official website](https://uiux.cc)
 
 
 ### Licensing
