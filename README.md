@@ -1,13 +1,14 @@
+
+<div align="center">
+
 # Awesome Web Foundations
 
-A basic tutorial (PDF eBooks) libraries about web development.
+A curated list of awesome tutorial (PDF eBooks) libraries about web development related to <a href="https://twitter.com/uiux_lab">@uiux_lab</a>. 
 
-[@uiux_lab](https://twitter.com/uiux_lab)
-
-
-### Licensing
-
-Licensed under the [MIT](https://opensource.org/licenses/MIT).
+</div>
 
 
+## License
+
+[CC0 License](LICENSE)
 
